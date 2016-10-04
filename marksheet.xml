@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<marksheet>
+
+	<course>
+		<title>AM-4</title>
+		<courseid>CSC401</courseid>
+		<th>60</th>
+		<IA>20</IA>
+		<ORPR>--</ORPR>
+		<tw>20</tw>
+		<total>100</total>
+	</course>
+
+	<course>
+		<title>AOA</title>
+		<courseid>CSC402</courseid>
+		<th>50</th>
+		<IA>18</IA>
+		<ORPR>20</ORPR>
+		<tw>21</tw>
+		<total>109</total>
+	</course>
+
+	<course>
+		<title>COA</title>
+		<courseid>CSC403</courseid>
+		<th>48</th>
+		<IA>10</IA>
+		<ORPR>17</ORPR>
+		<tw>18</tw>
+		<total>93</total>
+	</course>
+
+	<course>
+		<title>DBMS</title>
+		<courseid>CSC404</courseid>
+		<th>48</th>
+		<IA>15</IA>
+		<ORPR>17</ORPR>
+		<tw>20</tw>
+		<total>100</total>
+	</course>
+
+<course>
+		<title>TCS</title>
+		<courseid>CSC405</courseid>
+		<th>36</th>
+		<IA>20</IA>
+		<ORPR>--</ORPR>
+		<tw>--</tw>
+		<total>56</total>
+	</course>
+
+	<course>
+		<title>CG</title>
+		<courseid>CSC406</courseid>
+		<th>45</th>
+		<IA>15</IA>
+		<ORPR>20</ORPR>
+		<tw>19</tw>
+		<total>99</total>
+	</course>
+
+</marksheet>
